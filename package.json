@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/nightscout/dcalc/issues"
   },
-  "homepage": "https://github.com/nightscout/dcalc"
+  "homepage": "https://github.com/nightscout/dcalc",
+  "devDependencies": {
+    "mocha": "^2.3.3",
+    "should": "^7.1.1"
+  }
 }
